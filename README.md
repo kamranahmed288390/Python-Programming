@@ -1,7 +1,7 @@
 # Python-Programming
 
 Day 1: Modules, comments and pip <br>
-       Complete chapter 1 with Practice set
+<\t>       Complete chapter 1 with Practice set
 
 Day 2: Variables and Datatypes <br>
        Complete chapter 2 with Practice set
