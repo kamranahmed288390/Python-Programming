@@ -8,3 +8,6 @@ Day 2: Variables and Datatypes <br>
 
 Day 3: Strings <br>
        Complete chapter 3 with Practice set
+
+Day 4: Lists and tuples <br>
+       Complete chapter 4 with Practice set
