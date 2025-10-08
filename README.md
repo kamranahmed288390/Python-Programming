@@ -15,3 +15,6 @@ Day 4: Lists and tuples <br>
 Day 5: Dictonary and sets <br>
        Complete chapter 5 with Practice set
 
+Day 6: Conditional Expression <br>
+       Complete chapter 6 with Practice set
+
