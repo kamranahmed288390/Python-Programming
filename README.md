@@ -11,3 +11,7 @@ Day 3: Strings <br>
 
 Day 4: Lists and tuples <br>
        Complete chapter 4 with Practice set
+
+Day 5: Dictonary and sets <br>
+       Complete chapter 5 with Practice set
+
