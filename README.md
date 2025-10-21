@@ -18,3 +18,7 @@ Day 5: Dictonary and sets <br>
 Day 6: Conditional Expression <br>
        Complete chapter 6 with Practice set
 
+Day 7: Loops in Python <br>
+       Complete chapter 7 with Practice set
+
+
