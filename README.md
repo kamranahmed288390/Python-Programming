@@ -21,4 +21,8 @@ Day 6: Conditional Expression <br>
 Day 7: Loops in Python <br>
        Complete chapter 7 with Practice set
 
+Day 8: Functions and Recursions <br>
+       Complete chapter 8 with Practice set
+
+
 
