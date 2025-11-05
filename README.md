@@ -24,5 +24,8 @@ Day 7: Loops in Python <br>
 Day 8: Functions and Recursions <br>
        Complete chapter 8 with Practice set
 
+Day 9: Snake, Water and Gun Game <br>
+       Complete Project 1
+
 
 
