@@ -27,5 +27,6 @@ Day 8: Functions and Recursions <br>
 Day 9: Snake, Water and Gun Game <br>
        Complete Project 1
 
-
+Day 10: File I/O <br>
+       Complete chapter 9 with Practice set
 
