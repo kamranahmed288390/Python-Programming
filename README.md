@@ -30,3 +30,6 @@ Day 9: Snake, Water and Gun Game <br>
 Day 10: File I/O <br>
        Complete chapter 9 with Practice set
 
+Day 11: Object Oriented Programming<br>
+       Complete chapter 10 with Practice set
+
