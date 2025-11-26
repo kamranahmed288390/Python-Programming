@@ -1,0 +1,19 @@
+
+class Employee:
+    language = "Py" # This is a class attribute 
+    salary = 1200000
+
+    def getInfo(self):
+        print(f"The language is {self.language}. The salary is {self.salary}")
+    @staticmethod
+    def greet():
+        print("Good Morning")
+
+kamran = Employee()
+kamran.language = "Javascript" # This is a object attribute
+print(kamran.language,kamran.salary)
+kamran.greet()
+kamran.getInfo()
+
+
+# Here name is object attribute and salary and language are class attributes as tehy directly belong to the class 
