@@ -35,4 +35,8 @@ Day 11: Object Oriented Programming<br>
 
 Day 12: Advanced Python Programming<br>
        Complete chapter 12 with Practice set
+   
+Day 13: Advanced Python Programming 2<br>
+       Complete chapter 13 with Practice set
+
 
