@@ -33,3 +33,6 @@ Day 10: File I/O <br>
 Day 11: Object Oriented Programming<br>
        Complete chapter 10 with Practice set
 
+Day 12: Advanced Python Programming<br>
+       Complete chapter 12 with Practice set
+
